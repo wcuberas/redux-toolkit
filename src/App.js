@@ -9,8 +9,6 @@ import dayGridPlugin from '@fullcalendar/daygrid'
 
 function App() {
 
-
-
   return (
     <Provider store={store}>
       <div className='container w-50'>
